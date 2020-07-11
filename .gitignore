@@ -17,3 +17,7 @@ venv.bak/
 
 # ROS bags
 *.bag
+*.avi
+
+# Logs
+logs/
